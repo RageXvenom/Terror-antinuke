@@ -20,3 +20,4 @@ This tool protects your servers from 16 type of events and it has recovery featu
 ### Have issues?
 if you find a bug in the antinuke or want to ask something about the bot, you can report it by opening an issue ;)
 and hey u can contact me on discord too, i'm **Sxlitude#8885**
+**CREDIT:- SXLITUDE**
